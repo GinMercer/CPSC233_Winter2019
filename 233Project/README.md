@@ -1,12 +1,24 @@
 # Java RPG game
 
+The Project was worked as group of 5 people. 
+- Emily Iris Baird
+- Chunyu Li
+- Ji Mar
+- Sungjong Oh
+- Sijia Yin
+
+This project final version was copied from Sungjong's GitHub.
 
 ## Project Description
 It is a  RPG game, where Pikachu is trying to escape from Ash and win his freedom. 
 Other similar types of games include Pokemon and Zelda. Like in these games, pikachu can move around the map to collect items to help him, and has to fight enemies on the way, before finally fighting the final boss. The game is smaller and shorter than these games, but it has multiple maps and types of enemies to fight. The graphics will also have to be simpler than a full game such as Pokemon or Zelda.
 
-![demo]https://github.com/GinMercer/CPSC233_Winter2019/blob/master/233Project/demoimg/demo1.png
-![demo](../master/233Project/demoimg/demo2.png) ![demo](../master/233Project/demoimg/demo3.png) ![demo](../master/233Project/demoimg/demo4.png)![demo](../master/233Project/demoimg/demo5.png)![demo](../master/233Project/demoimg/demo6.png)
+![demo](https://github.com/GinMercer/CPSC233_Winter2019/blob/master/233Project/demoimg/demo1.png)
+![demo](https://github.com/GinMercer/CPSC233_Winter2019/blob/master/233Project/demoimg/demo2.png) 
+![demo](https://github.com/GinMercer/CPSC233_Winter2019/blob/master/233Project/demoimg/demo3.png) 
+![demo](https://github.com/GinMercer/CPSC233_Winter2019/blob/master/233Project/demoimg/demo4.png)
+![demo](https://github.com/GinMercer/CPSC233_Winter2019/blob/master/233Project/demoimg/demo5.png)
+![demo](https://github.com/GinMercer/CPSC233_Winter2019/blob/master/233Project/demoimg/demo6.png)
 
 There are two versions: text-version, GUI-version
 
